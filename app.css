@@ -1,0 +1,20 @@
+.navbar-inverse {
+    position: sticky;
+    top: 0;
+    background:transparent;
+}
+
+a {
+    color:#891652 !important;
+    font-size: medium;
+}
+
+a:hover {
+    color: #240A34 !important;
+    font-weight: 700 !important;
+}
+
+.navbar-inverse.scrollPage {
+    background-color: #EABE6C !important;
+    transition: background-color 400ms ease-in-out;
+  }
